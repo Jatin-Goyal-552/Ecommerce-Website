@@ -1,2 +1,2 @@
 # Ecommerce-Website
- Project in django (HTML, Python,CSS,Javascript)
+ Project in django (HTML, Python,CSS,JavaScript)
